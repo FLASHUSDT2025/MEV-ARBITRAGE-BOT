@@ -1,6 +1,6 @@
 # MEV-ARBITRAGE-BOT 📬 Contact & Support
 For support or questions, reach out via Telegram:
-📨 [Contact (https://t.me/Chain_Flash
+📨 [Contact (https://t.me/irfan_sopian
 # 🚀 MEV Arbitrage Bot (Aave Flashloan + Uniswap/Sushiswap)
 
 This repository contains a fully working MEV arbitrage trading bot that leverages **Aave flashloans** and performs profitable arbitrage between **Uniswap** and **Sushiswap**. The bot is written in Solidity and JavaScript, and designed to run on EVM-compatible networks like Ethereum, Polygon, or BNB Chain.
@@ -48,8 +48,8 @@ Repay flashloan + keep the profit (if any)
 
 📬 Contact & Support
 For support or questions, reach out via Telegram:
-📨 Contact [https://t.me/Chain_Flash
-](https://t.me/Chain_Flash)
+📨 Contact [https://t.me/irfan_sopian
+](https://t.me/irfan_sopian)
 
 
 
